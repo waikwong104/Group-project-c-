@@ -19,12 +19,12 @@ int main()
 	string Skill[1000];
 	string Country[1000];
 	int loop = 0;
-	for (int i = 1; i < 8; i++) {
+	/*for (int i = 1; i < 8; i++) {
 
 		for (int j = 1; j < 1000; j++)
 
 			inputFile >> str[i][j];
-	}
+	}*/
 	/*
 		while (getline(file, str))
 		{
@@ -56,12 +56,12 @@ int main()
 			}
 		}
 	*/
-	for (int i = 1; i < 8; i++) {
+	//for (int i = 1; i < 8; i++) {
 
-		for (int j = 1; j < 1000; j++)
+	//	for (int j = 1; j < 1000; j++)
 
-			inputFile >> str[i][j];
-	}
+	//		inputFile >> str[i][j];
+	//}
 	/*	file_contents += str;
 		file_contents.push_back('\n');
 		cout << str<<endl;*/
